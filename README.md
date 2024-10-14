@@ -14,5 +14,5 @@
 `mvn test -Dsurefire.suiteXmlFiles=testng.xml`
 
 <img width="1215" alt="Screenshot 2023-10-31 at 12 27 28 PM" src="https://github.com/PramodDutta/AdvanceSeleniumFrameworkTTA/assets/1409610/b0905741-d88d-4559-93c2-65433e668170">
-<img width="1215" alt="Screenshot 2023-10-31 at 12 27 28 PM" src="https://ibb.co/LN5WHcB">
-<img width="1215" alt="Screenshot 2023-10-31 at 12 27 28 PM" src="https://ibb.co/7VPNTK4">
+<img width="1215" alt="Screenshot 2023-10-31 at 12 27 28 PM" src="https://github.com/kaushik0703/Selenium-Testing/blob/main/report1.png">
+<img width="1215" alt="Screenshot 2023-10-31 at 12 27 28 PM" src="https://github.com/kaushik0703/Selenium-Testing/blob/main/report2.png">
