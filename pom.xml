@@ -16,9 +16,6 @@
     <allure.version>2.19.0</allure.version>
   </properties>
 
-  <name>TTAAdvanceSelFramework</name>
-  <url>http://www.thetestingacademy.com</url>
-
 
   <dependencies>
 
